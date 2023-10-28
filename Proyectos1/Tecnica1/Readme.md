@@ -10,5 +10,6 @@ En el Entrenamiento 3: Se aplicó lo mismo que el Entrenamiento 2 y se añadirá
 
 En el Entrenamiento 4: Se aplicó lo mismo que el Entrenamiento 3 y se aumentaron las épocas. 
 
-En el Entrenamiento 5: Se aplicó lo mismo que el Entrenamiento 3, epocas = 15, batch_size=10.
+En el Entrenamiento 5: Se aplicó lo mismo que el Entrenamiento 4, epocas = 15, batch_size=10, en include_Top=False.
 
+En el Entrenamiento 6: Se aplicó lo mismo que el Entrenamiento 5, batch_size=32.
