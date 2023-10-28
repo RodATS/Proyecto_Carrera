@@ -9,3 +9,6 @@ En el Entrenamiento 2: se hace un entrenamiento de 224 x 224 x 3, con el globalA
 En el Entrenamiento 3: Se aplicó lo mismo que el Entrenamiento 2 y se añadirá las segmentaciones a las imágenes. Nos da: loss: 0.8942 - accuracy: 0.6782
 
 En el Entrenamiento 4: Se aplicó lo mismo que el Entrenamiento 3 y se aumentaron las épocas. 
+
+En el Entrenamiento 5: Se aplicó lo mismo que el Entrenamiento 3, epocas = 15, batch_size=10.
+
