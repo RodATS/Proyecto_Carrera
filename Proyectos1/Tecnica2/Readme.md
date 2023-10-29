@@ -8,3 +8,4 @@ En results_Xception.csv se encontrarán los resultados luego de pasar imágenes 
 En el documento se verá los accuracy de cada Fold que se realizó en el proyecto, al utilizar diferentes bases de datos.
 
 En el histograma donde se utiliza el Dataset RIM-ONE se obtuvo: 95.0 confidence interval 77.22% and 91.18%
+![image](https://github.com/RodATS/Proyecto_Carrera/assets/77297145/89618be4-0f2e-4c7b-8b09-c862acbee964)
