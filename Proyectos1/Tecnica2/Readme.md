@@ -6,3 +6,5 @@ Aquí se encuentran los códigos y como armar las carpetas para obtener los resu
 En results_Xception.csv se encontrarán los resultados luego de pasar imágenes por el modelo a entrenado, dando por resultado las probailidaddes de ser glaucoma o no. Se observa que acierta en todas las imágenes.
 
 En el documento se verá los accuracy de cada Fold que se realizó en el proyecto, al utilizar diferentes bases de datos.
+
+En el histograma donde se utiliza el Dataset RIM-ONE se obtuvo: 95.0 confidence interval 77.22% and 91.18%
